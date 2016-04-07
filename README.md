@@ -1,5 +1,6 @@
 #Temas a investigar
 Analizar y justificar cada uno de los procesos de los siguientes ejemplos
+
 - Aplicacion de ajuste de curvas | EJEMPLO 4
 - Redes | EJERCICIO 75
 - [X]/2 Factorizacion LU | EJEMPLO 5
