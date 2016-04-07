@@ -5,5 +5,5 @@ Analizar y justificar cada uno de los procesos de los siguientes ejemplos
 - Factorizacion LU | EJEMPLO 5 (Completo)
 - Matriz estocastica | EJEMPLOS 1, 2, 3
 - Criptografia | EJEMPLOS 4, 5, 6 (Completo)
-- Analisis de resecion con minimos cuadrados | EJEMPLOS 9, 10
+- Analisis de regrecion por minimos cuadrados | EJEMPLOS 9, 10
 - Cordenadas y cambios de base | EJEMPLOS 1, 2, 3, 4, 5, 6, 7
