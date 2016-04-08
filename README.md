@@ -1,7 +1,7 @@
 #Temas a investigar
 Analizar y justificar cada uno de los procesos de los siguientes ejemplos
 
-- Aplicacion de ajuste de curvas | EJEMPLO 4 (Parcialmente listo)
+- Aplicacion de ajuste de curvas | EJEMPLO 4 (Listo)
 - Redes | EJERCICIO 75 
 - [X]/2 Factorizacion LU | EJEMPLO 5 (Listo)
 - Matriz estocastica | EJEMPLOS 1, 2, 3 (Falta el ultimo ejemplo)
