@@ -2,7 +2,7 @@
 Analizar y justificar cada uno de los procesos de los siguientes ejemplos
 
 - Aplicacion de ajuste de curvas | EJEMPLO 4 (Listo)
-- Redes | EJERCICIO 75 
+- Redes | EJERCICIO 35 
 - Factorizacion LU | EJEMPLO 5a (Listo), 5b
 - Matriz estocastica | EJEMPLOS 1, 2, 3 (Falta el ultimo ejemplo)
 - Criptografia | EJEMPLOS 4, 5, 6 (Listo)
