@@ -6,7 +6,7 @@ Analizar y justificar cada uno de los procesos de los siguientes ejemplos
 - Factorizacion LU | EJEMPLO 5a (Listo), 5b
 - Matriz estocastica | EJEMPLOS 1, 2, 3 (Listo), la matriz media no esta mal definida como un limite.
 - Criptografia | EJEMPLOS 4, 5, 6 (Listo)
-- Analisis de resecion con minimos cuadrados | EJEMPLOS 9, 10
+- Analisis de resecion con minimos cuadrados | EJEMPLOS 9, 10 (Resueltos pero no agregados al documento final)
 - Cordenadas y cambios de base | EJEMPLOS 1[listo], 2[listo], 3[listo], 4, 5, 6, 7
 
 # Reglas de estilo
